@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "is_lab_2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/is_lab_2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/is_lab_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "is_lab_2/1.0.0": {
+      "type": "project",
+      "path": "../crypto_lab_2/is_lab_2.csproj",
+      "msbuildProject": "../crypto_lab_2/is_lab_2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "is_lab_2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\maksy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\maksy\\Documents\\git\\is_stream_ciphers\\ConsoleForTests\\ConsoleForTests.csproj",
+      "projectName": "ConsoleForTests",
+      "projectPath": "C:\\Users\\maksy\\Documents\\git\\is_stream_ciphers\\ConsoleForTests\\ConsoleForTests.csproj",
+      "packagesPath": "C:\\Users\\maksy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maksy\\Documents\\git\\is_stream_ciphers\\ConsoleForTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\maksy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\maksy\\Documents\\git\\is_stream_ciphers\\crypto_lab_2\\is_lab_2.csproj": {
+              "projectPath": "C:\\Users\\maksy\\Documents\\git\\is_stream_ciphers\\crypto_lab_2\\is_lab_2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

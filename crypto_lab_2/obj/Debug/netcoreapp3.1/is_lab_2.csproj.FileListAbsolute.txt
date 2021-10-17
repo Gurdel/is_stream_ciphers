@@ -1,0 +1,8 @@
+C:\Users\maksy\Documents\git\is_stream_ciphers\crypto_lab_2\bin\Debug\netcoreapp3.1\is_lab_2.deps.json
+C:\Users\maksy\Documents\git\is_stream_ciphers\crypto_lab_2\bin\Debug\netcoreapp3.1\is_lab_2.dll
+C:\Users\maksy\Documents\git\is_stream_ciphers\crypto_lab_2\bin\Debug\netcoreapp3.1\is_lab_2.pdb
+C:\Users\maksy\Documents\git\is_stream_ciphers\crypto_lab_2\obj\Debug\netcoreapp3.1\is_lab_2.AssemblyInfoInputs.cache
+C:\Users\maksy\Documents\git\is_stream_ciphers\crypto_lab_2\obj\Debug\netcoreapp3.1\is_lab_2.AssemblyInfo.cs
+C:\Users\maksy\Documents\git\is_stream_ciphers\crypto_lab_2\obj\Debug\netcoreapp3.1\is_lab_2.csproj.CoreCompileInputs.cache
+C:\Users\maksy\Documents\git\is_stream_ciphers\crypto_lab_2\obj\Debug\netcoreapp3.1\is_lab_2.dll
+C:\Users\maksy\Documents\git\is_stream_ciphers\crypto_lab_2\obj\Debug\netcoreapp3.1\is_lab_2.pdb

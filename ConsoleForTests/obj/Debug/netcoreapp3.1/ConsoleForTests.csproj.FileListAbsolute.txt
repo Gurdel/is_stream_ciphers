@@ -1,0 +1,16 @@
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\bin\Debug\netcoreapp3.1\ConsoleForTests.exe
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\bin\Debug\netcoreapp3.1\ConsoleForTests.deps.json
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\bin\Debug\netcoreapp3.1\ConsoleForTests.runtimeconfig.json
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\bin\Debug\netcoreapp3.1\ConsoleForTests.runtimeconfig.dev.json
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\bin\Debug\netcoreapp3.1\ConsoleForTests.dll
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\bin\Debug\netcoreapp3.1\ConsoleForTests.pdb
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\bin\Debug\netcoreapp3.1\is_lab_2.dll
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\bin\Debug\netcoreapp3.1\is_lab_2.pdb
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Debug\netcoreapp3.1\ConsoleForTests.csprojAssemblyReference.cache
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Debug\netcoreapp3.1\ConsoleForTests.AssemblyInfoInputs.cache
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Debug\netcoreapp3.1\ConsoleForTests.AssemblyInfo.cs
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Debug\netcoreapp3.1\ConsoleForTests.csproj.CoreCompileInputs.cache
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Debug\netcoreapp3.1\ConsoleForTests.csproj.CopyComplete
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Debug\netcoreapp3.1\ConsoleForTests.dll
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Debug\netcoreapp3.1\ConsoleForTests.pdb
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Debug\netcoreapp3.1\ConsoleForTests.genruntimeconfig.cache
