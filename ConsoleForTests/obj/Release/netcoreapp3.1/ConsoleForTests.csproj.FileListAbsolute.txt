@@ -13,3 +13,4 @@ C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Release\netco
 C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Release\netcoreapp3.1\ConsoleForTests.dll
 C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Release\netcoreapp3.1\ConsoleForTests.pdb
 C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Release\netcoreapp3.1\ConsoleForTests.genruntimeconfig.cache
+C:\Users\maksy\Documents\git\is_stream_ciphers\ConsoleForTests\obj\Release\netcoreapp3.1\ConsoleForTests.csprojAssemblyReference.cache
